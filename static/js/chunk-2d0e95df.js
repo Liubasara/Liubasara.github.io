@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e95df"],{"8cdb":function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("页面飞走辣~!")])},u=[],c={name:"NotFond"},l=c,i=t("2877"),s=Object(i["a"])(l,o,u,!1,null,null,null);s.options.__file="404.vue";e["default"]=s.exports}}]);
